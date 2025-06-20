@@ -45,7 +45,7 @@ Edit
 ## 🛠️ How to Use
 
 1. **Download or Clone the Repository**
-git clone https://github.com/your-username/trends-ecommerce.git
+git clone https://github.com/vinayreddy2006/E-Commerce_Website.git
 cd trends-ecommerce
 
 markdown
