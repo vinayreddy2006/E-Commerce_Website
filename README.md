@@ -80,4 +80,3 @@ Replace `.webp`, `.png` files with your own product images (same filenames or up
 
 ---
 
-📧 For queries or feedback, feel free to reach out via the contact section of the site!
