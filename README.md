@@ -64,17 +64,13 @@ Replace `.webp`, `.png` files with your own product images (same filenames or up
 
 - HTML5
 - CSS3 (Flexbox, Transitions, Responsive Design)
-- Vanilla JavaScript (DOM Manipulation, Event Handling)
+- JavaScript (DOM Manipulation, Event Handling)
 
 ## 📌 Notes
 
 - No backend or database is included. Cart is maintained in browser memory (lost on refresh).
 - Prices and product names are hardcoded.
 - External links used in blogs open in a new tab.
-
-## 📷 Screenshots
-
-> You can add screenshots here for better presentation on GitHub or portfolio.
 
 ## 🙌 Acknowledgments
 
